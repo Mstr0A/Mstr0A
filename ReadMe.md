@@ -2,11 +2,13 @@
 
 ## 💫 About Me:
 📚 I'm a Cyber Security student but I develop software<br>
-🎵 I'm currently the only developer and maintainer of Whisper bot<br>
 💻 I may not know many programming languages but I'm really good at what I know (and I'm always happy to learn more)<br>
-🔭 Looking for something to work on<br>
 ⚡ Fun fact: I have been programming since I was 13<br>
 ☕ [Support me?](https://buymeacoffee.com/mstr0a)
+
+## 💻 Current Projects
+🎵 I'm currently the only developer and maintainer of Whisper bot<br>
+💙 I'm currently working on my own programming language named a0 (青: blue in Japanese)<br>
 
 ## 🛠️ Skills & Technologies
 
