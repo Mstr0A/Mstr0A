@@ -19,6 +19,7 @@
 - **Cloud & Infrastructure**: VPS and Server Management
 
 ## 🌐 Connect With Me
+- **Portfolio**: [Ameen Sonjuq](https://ameensonjuq.com)
 - **LinkedIn**: [Ameen Sonjuq](https://linkedin.com/in/Ameen-Sonjuq)
 - **GitHub**: [Mstr0A](https://github.com/Mstr0A)
 
