@@ -8,7 +8,7 @@
 
 ## 💻 Current Projects
 🎵 I'm currently the only developer and maintainer of Whisper bot<br>
-💙 I'm currently working on my own programming language named a0 (青: blue in Japanese)<br>
+🤖 And I'm also working on a library for making discord bots in Kotlin called Kobalt<br>
 
 ## 🛠️ Skills & Technologies
 
