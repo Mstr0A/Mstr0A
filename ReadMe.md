@@ -2,7 +2,7 @@
 
 ## 💫 About Me:
 📚 I'm a Cyber Security graduate but I develop software<br>
-💻 Always improving always learning (and I'm always happy to learn more)<br>
+💻 Always improving always learning<br>
 ⚡ Fun fact: I have been programming since I was 13<br>
 ☕ [Support me?](https://ko-fi.com/ameen0)
 
