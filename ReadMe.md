@@ -1,10 +1,11 @@
 # Hi, Ameen here! 👋
 
 ## 💫 About Me:
-📚 I'm a Cyber Security student but I develop software<br>
-💻 I may not know many programming languages but I'm really good at what I know (and I'm always happy to learn more)<br>
+📚 I'm a Cyber Security graduate but I develop software<br>
+💻 Always improving always learning (and I'm always happy to learn more)<br>
 ⚡ Fun fact: I have been programming since I was 13<br>
-☕ [Support me?](https://buymeacoffee.com/mstr0a)
+☕ [Support me?](https://ko-fi.com/ameen0)
+
 
 ## 💻 Current Projects
 🎵 I'm currently the only developer and maintainer of Whisper bot<br>
@@ -12,11 +13,11 @@
 
 ## 🛠️ Skills & Technologies
 
-- **Languages**: Python, Kotlin, GO, SQL, Bash
-- **Frameworks**: FastAPI, Flask, Django
+- **Languages**: Python, Kotlin, C#, GO, SQL, Bash
+- **Frameworks**: FastAPI, Flask, Ktor
 - **Databases**: MySQL
-- **Tools**: Git, Docker, VirtualBox, VScode
-- **Cloud & Infrastructure**: VPS and Server Management
+- **Tools**: Git, Docker, VirtualBox, VScode, IntellijIdea
+- **Cloud & Infrastructure**: Oracle Cloud VPS and Server Management
 
 ## 🌐 Connect With Me
 - **Portfolio**: [Ameen Sonjuq](https://ameensonjuq.com)
@@ -24,28 +25,29 @@
 - **GitHub**: [Mstr0A](https://github.com/Mstr0A)
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Plex](https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mstr0A&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Mstr0A&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mstr0A&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=Mstr0A&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Mstr0A&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mstr0A&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mstr0A&icon=0&color=11)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Mstr0A&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Mstr0A) 
+  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ameen0) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
