@@ -38,13 +38,13 @@
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Mstr0A&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Mstr0A&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mstr0A&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- # 📊 GitHub Stats: -->
+<!-- ![](https://github-readme-stats.shion.dev/api?username=Mstr0A&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
+<!-- ![](https://streak-stats.demolab.com/?user=Mstr0A&theme=dark&hide_border=false)<br/> -->
+<!-- ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mstr0A&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 ---
-[![](https://komarev.com/ghpvc/?username=Mstr0A&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- [![](https://komarev.com/ghpvc/?username=Mstr0A&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
   ## 💰 You can help me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ameen0) 
